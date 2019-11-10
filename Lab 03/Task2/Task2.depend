@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573388287 source:f:\nsu\fall2019\cse225l practice\lab 03\task2\main.cpp
+	<iostream>
+	"complex.h"
+
+1573388287 f:\nsu\fall2019\cse225l practice\lab 03\task2\complex.h
+	"complex.tpp"
+
+1573388331 f:\nsu\fall2019\cse225l practice\lab 03\task2\complex.tpp
+	"complex.h"
+	<iostream>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1573328492 source:d:\wasif\lab 04\task2\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"StudentInfo.h"
+
+1573328684 d:\wasif\lab 04\task2\unsortedtype.h
+	"StudentInfo.h"
+	"UnsortedType.tpp"
+
+1573328714 d:\wasif\lab 04\task2\studentinfo.h
+
+1573328684 d:\wasif\lab 04\task2\unsortedtype.tpp
+	"UnsortedType.h"
+

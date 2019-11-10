@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573324399 source:e:\nsu\fall2019\cse225l practice\lab 03\task1\main.cpp
+	<iostream>
+	"dynarr.h"
+
+1573323963 e:\nsu\fall2019\cse225l practice\lab 03\task1\dynarr.h
+	"dynarr.tpp"
+
+1573323963 e:\nsu\fall2019\cse225l practice\lab 03\task1\dynarr.tpp
+	"dynarr.h"
+
